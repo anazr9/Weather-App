@@ -1,6 +1,7 @@
 # Weather App
 Put your Open Weather Api in lib/services/weather.dart in variable apikey.
-![Uploading Screenshot_20211120-213715.jpg![Uploading Screenshot_20211120-213740.jpg…]![Screenshot_20211120-213701](https://user-images.githubusercontent.com/74458687/142733284-221e06f1-6bb9-4203-a047-f09fe2eb6847.jpg)
-![Screenshot_20211120-213706](https://user-images.githubusercontent.com/74458687/142733285-bbdbec34-6c3a-46e6-a78d-150cdb2d2568.jpg)
-()
-![Screenshot_20211120-213721](https://user-images.githubusercontent.com/74458687/142733281-04fa259b-b0a7-4fbf-8262-4ef5e1d42892.jpg)
+![Screenshot_20211120-213701](https://user-images.githubusercontent.com/74458687/142733360-613f83cd-f2cd-440b-ae97-37203ba62745.jpg)
+![Screenshot_20211120-213706](https://user-images.githubusercontent.com/74458687/142733364-1dfc01e3-4377-4dd8-a53a-2303b20bfb16.jpg)
+![Screenshot_20211120-213715](https://user-images.githubusercontent.com/74458687/142733368-50b7eec2-c3bc-4ed1-939b-00b84e76e19a.jpg)
+![Screenshot_20211120-213721](https://user-images.githubusercontent.com/74458687/142733382-6e0426ae-f640-463e-8be4-657132a9329e.jpg)
+![Screenshot_20211120-213740](https://user-images.githubusercontent.com/74458687/142733385-bb89009d-90ea-4bd0-bd2d-c01a955ccc34.jpg)
